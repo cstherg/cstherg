@@ -1,6 +1,6 @@
 # 👩‍💻 Sobre Mim
 
-Olá! Seja muito bem-vindo(a) ao meu espaço no GitHub. Sou **Cinthia**, apaixonada por tecnologia, inovação e pelas infinitas possibilidades que a Engenharia proporciona.
+Olá! Seja muito bem-vindo(a) ao meu espaço no GitHub. Sou **Stheffany**, apaixonada por tecnologia, inovação e pelas infinitas possibilidades que a Engenharia proporciona.
 
 ---
 
